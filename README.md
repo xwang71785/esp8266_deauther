@@ -77,6 +77,10 @@ If you do, it only proves that you didn't understand anything of what this proje
 
 ## Getting Started
 
+1. Scan for WiFi networks.
+2. Connect to pwned with the password deauther.
+3. Open 192.168.4.1 (or deauth.me)
+
 Visit our new [Wiki](https://github.com/spacehuhn/esp8266_deauther/wiki) on how to recreate this project and use it.  
 Happy Hacking!
 
