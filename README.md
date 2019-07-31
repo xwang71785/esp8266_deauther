@@ -80,6 +80,18 @@ If you do, it only proves that you didn't understand anything of what this proje
 Visit our new [Wiki](https://github.com/spacehuhn/esp8266_deauther/wiki) on how to recreate this project and use it.  
 Happy Hacking!
 
+### Compiling using Arduino IDE
+1.First you have to install and open the Arduino IDE.
+
+2.In Arduino go to File -> Preferences add both URLs in Additional Boards Manager URLs
+
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
+http://phpsecu.re/esp8266/package_deauther_index.json
+
+3.Go to Tools -> Board -> Boards Manager, search "esp8266" and install esp8266 first, then arduino-esp8266-deauther
+
+4.Select your board at Tools -> Board and be sure it is at ESP8266 Deauther Modules (and not at ESP8266 Modules)!
+
 ## Credits
 A huge thanks to:
 - [@deantonious](http://github.com/deantonious)
