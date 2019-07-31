@@ -76,10 +76,10 @@ A solution is already there, why don't we use it?
 If you do, it only proves that you didn't understand anything of what this project stands for. Publishing content about this without a proper explanation shows that you only do it for the clicks, fame and/or money and have no respect for intellectual property, the community behind it and the fight for a better WiFi standard!  
 
 ## Getting Started
-
+### With Web
 1. Scan for WiFi networks.
-2. Connect to pwned with the password deauther.
-3. Open 192.168.4.1 (or deauth.me)
+2. Connect to **pwned** with the password **deauther**.
+3. Open **192.168.4.1** (or deauth.me)
 
 Visit our new [Wiki](https://github.com/spacehuhn/esp8266_deauther/wiki) on how to recreate this project and use it.  
 Happy Hacking!
@@ -94,7 +94,7 @@ http://phpsecu.re/esp8266/package_deauther_index.json
 
 3.Go to Tools -> Board -> Boards Manager, search "esp8266" and install esp8266 first, then arduino-esp8266-deauther
 
-4.Select your board at Tools -> Board and be sure it is at ESP8266 Deauther Modules (and not at ESP8266 Modules)!
+4.Select your board at Tools -> Board and be sure it is at **ESP8266 Deauther Modules (and not at ESP8266 Modules)!**
 
 ## Credits
 A huge thanks to:
